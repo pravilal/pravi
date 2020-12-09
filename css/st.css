@@ -1,0 +1,18 @@
+.div1{
+    background-color: orange;
+    position: absolute;
+    bottom: 20%;
+left: 40%;}
+div{
+    width: 150px;
+    height: 150px;
+}
+.div2{
+    background-color: black;
+    position: relative;
+    bottom: 20%;
+left: 30%;}
+.div3{
+    background-color:green; position: relative;
+    bottom: 20%;
+left: 30%;}

@@ -1,0 +1,21 @@
+.color{
+    background-color: pink;
+    
+}
+.color:hover{background-color: red;}
+.arun{
+    background-color: purple;
+}
+.arun:hover{background-color: yellow;}
+.redhun{
+    background-color: royalblue;
+
+}
+.redhun:hover{background-color: orchid;}
+.pravi{background-color: seagreen;}
+.pravi:hover{background-color: orange;}
+.border{
+    border-collapse: collapse;
+    width: 100%;
+}
+td{text-align:l;}
